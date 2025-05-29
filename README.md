@@ -73,5 +73,5 @@ This project is open-source and free to use for educational purposes.
 
 ## 👨‍💻 Author
 
-Created by [Your Name] — feel free to reach out or fork the project!
+Created by [SaifAliKhanGithub] — feel free to reach out or fork the project!
 
