@@ -1,6 +1,6 @@
-## social-media-website
+## Social-Media-Website
 
-#Pointer is a social media platform that allows users to share their point of view on any topic — from current affairs and geopolitics to trending global events. Similar to Twitter, it enables real-time public discourse where individuals express their opinions and engage with diverse perspectives.
+Pointer is a social media platform that allows users to share their point of view on any topic — from current affairs and geopolitics to trending global events. Similar to Twitter, it enables real-time public discourse where individuals express their opinions and engage with diverse perspectives.
 
 **Pointer** is a basic PHP-based social networking web application. It allows users to register, log in, edit profiles, post content, and manage their accounts. This project is great for learning the fundamentals of web development with PHP and MySQL.
 
