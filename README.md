@@ -38,3 +38,40 @@
    - Import the `.sql` file (if available)
 5. **Start Apache and MySQL** from XAMPP/WAMP control panel
 6. Open your browser and visit:
+
+
+
+
+---
+
+## 📂 Folder Structure
+
+
+
+
+---
+
+## 📌 Notes
+
+- Make sure to upload the **SQL database file** for full functionality.
+- Use this project to learn how PHP handles sessions, user authentication, and MySQL interaction.
+- Not intended for production use — for learning/demo purposes only.
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots of your login page, home page, or profile section here to visually showcase your app._
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for educational purposes.
+
+---
+
+## 👨‍💻 Author
+
+Created by [Your Name] — feel free to reach out or fork the project!
+
