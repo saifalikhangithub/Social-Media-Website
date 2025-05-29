@@ -48,5 +48,4 @@ Pointer is a social media platform that allows users to share their point of vie
 
 ## 👨‍💻 Author
 
-Created by [SaifAliKhanGithub] — feel free to reach out or fork the project!
-
+Created by [SaifAliKhanGithub]
